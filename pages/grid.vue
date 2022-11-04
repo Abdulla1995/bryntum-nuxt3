@@ -1,8 +1,10 @@
 <template>
-  <h1>Grid view</h1>
-  <bryntum-grid
-      v-bind="gridConfig"
-  />
+  <div>
+    <h1>Grid view</h1>
+    <bryntum-grid
+        v-bind="gridConfig"
+    />
+  </div>
 </template>
 
 <script setup>

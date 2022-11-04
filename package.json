@@ -12,6 +12,8 @@
   },
   "dependencies": {
     "@bryntum/grid": "npm:@bryntum/grid-trial@^5.2.1",
-    "@bryntum/grid-vue-3": "^5.2.1"
+    "@bryntum/grid-vue-3": "^5.2.1",
+    "fusioncharts": "^3.2.0",
+    "vue-fusioncharts": "^3.2.0"
   }
 }
